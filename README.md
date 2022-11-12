@@ -15,3 +15,5 @@
 
 ## 2주차 - JPA 미션
 [(1단계) 엔티티 매핑](https://github.com/next-step/jwp-qna/pull/613)
+
+[(2단계) 연관 관계 매핑](https://github.com/next-step/jwp-qna/pull/649)
