@@ -17,3 +17,5 @@
 [(1단계) 엔티티 매핑](https://github.com/next-step/jwp-qna/pull/613)
 
 [(2단계) 연관 관계 매핑](https://github.com/next-step/jwp-qna/pull/649)
+
+[(3단계) 질문 삭제하기 리펙터링](https://github.com/next-step/jwp-qna/pull/706)
