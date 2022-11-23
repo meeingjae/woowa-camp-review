@@ -22,4 +22,4 @@
 
 
 ## 3주차 - 그럴듯한 서비스 만들기 (Infra 미션)
-[(1단계)](https://github.com/next-step/infra-subway-deploy/pull/895)
+[(1단계) 서비스 구성하기](https://github.com/next-step/infra-subway-deploy/pull/895)
